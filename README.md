@@ -66,14 +66,14 @@ Built the Docker image and started the container using Docker Compose.
 
 Checked the running container using Docker commands.
 
-📸 **Screenshot:** `screenshots/docker-build-run.png`
+![](screenshots/docker-build-run.png)
 
 ---
 ## Step 6 - Push Project to GitHub
 
 Created a Git repository and pushed the project files to GitHub.
 
-📸 **Screenshot:** `screenshots/git-push.png`
+![](screenshots/git-push.png)
 
 ---
 ## Step 7 - Prepare EC2 Server
@@ -82,7 +82,7 @@ Launched an Ubuntu EC2 instance and connected to the server using SSH.
 
 Installed and configured Docker and Docker Compose on the EC2 server.
 
-📸 **Screenshot:** `screenshots/ec2-docker-install.png`
+![](screenshots/ec2-docker-install.png)
 
 ---
 
@@ -90,7 +90,8 @@ Installed and configured Docker and Docker Compose on the EC2 server.
 
 Accessed the deployed website using the EC2 public IP and configured port.
 
-📸 **Screenshot:** `screenshots/website-ec2.png`
+![](
+`screenshots/website-ec2.png)
 
 ---
 
@@ -98,7 +99,7 @@ Accessed the deployed website using the EC2 public IP and configured port.
 
 Created a GitHub Actions workflow for automatic deployment to the EC2 server.
 
-📸 **Screenshot:** `screenshots/deploy-yaml.png`
+![](screenshots/deploy-yaml.png)
 
 ---
 
@@ -106,7 +107,7 @@ Created a GitHub Actions workflow for automatic deployment to the EC2 server.
 
 Added the required EC2 SSH credentials as GitHub repository secrets.
 
-📸 **Screenshot:** `screenshots/github-secrets.png`
+![](screenshots/github-secrets.png)
 
 ---
 
@@ -116,7 +117,7 @@ Pushed changes to the `main` branch.
 
 GitHub Actions automatically connected to the EC2 server and deployed the updated application.
 
-📸 **Screenshot:** `screenshots/github-actions-success.png`
+![](screenshots/github-actions-success.png)
 
 ---
 
@@ -124,7 +125,7 @@ GitHub Actions automatically connected to the EC2 server and deployed the update
 
 Verified that the updated website was successfully running inside the Docker container on EC2.
 
-📸 **Screenshot:** `screenshots/final-website.png`
+![](screenshots/final-website.png)
 
 ---
 

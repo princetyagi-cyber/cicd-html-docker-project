@@ -90,12 +90,11 @@ Installed and configured Docker and Docker Compose on the EC2 server.
 
 Accessed the deployed website using the EC2 public IP and configured port.
 
-![](
-`screenshots/website-ec2.png)
+![](screenshots/website-ec2.png)
 
 ---
 
-## Step 8 - Configure GitHub Actions
+## Step 9 - Configure GitHub Actions
 
 Created a GitHub Actions workflow for automatic deployment to the EC2 server.
 
@@ -103,7 +102,7 @@ Created a GitHub Actions workflow for automatic deployment to the EC2 server.
 
 ---
 
-## Step 9 - Configure GitHub Secrets
+## Step 10 - Configure GitHub Secrets
 
 Added the required EC2 SSH credentials as GitHub repository secrets.
 
@@ -111,7 +110,7 @@ Added the required EC2 SSH credentials as GitHub repository secrets.
 
 ---
 
-## Step 10 - GitHub Actions Deployment
+## Step 11 - GitHub Actions Deployment
 
 Pushed changes to the `main` branch.
 
@@ -121,7 +120,7 @@ GitHub Actions automatically connected to the EC2 server and deployed the update
 
 ---
 
-## Step 11 - Verify Deployment
+## Step 12 - Verify Deployment
 
 Verified that the updated website was successfully running inside the Docker container on EC2.
 

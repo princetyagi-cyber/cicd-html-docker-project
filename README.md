@@ -42,7 +42,7 @@ Created a simple HTML website using VS Code.
 
 Created a Dockerfile using Nginx to containerize the HTML website.
 
-📸 **Screenshot:** (screenshots/dockerfile.png)
+[](screenshots/dockerfile.png)
 
 ---
 
@@ -50,14 +50,14 @@ Created a Dockerfile using Nginx to containerize the HTML website.
 
 Created `docker-compose.yml` to build and run the website container.
 
-📸 **Screenshot:** `screenshots/docker-compose.png`
+[](screenshots/docker-compose.png)
 
 ---
 ## Step 4 - Create .gitignore
 
 Created a `.gitignore` file to prevent sensitive and unnecessary files from being pushed to GitHub.
 
-📸 **Screenshot:** `screenshots/gitignore.png`
+[](screenshots/gitignore.png)
 
 ---
 ## Step 5 - Build and Run Docker Container

@@ -25,8 +25,7 @@ cicd-html-docker/
 ├── .github/
 │   └── workflows/
 │       └── deploy.yml
-├── screenshots/
-└── README.md
+├── ec2 server
 
 ---
 
@@ -146,19 +145,6 @@ Nginx Container
 ↓  
 Updated Website
 
----
-
-## 🎯 What I Learned
-
-- AWS EC2 deployment
-- Docker containerization
-- Docker Compose
-- Git & GitHub
-- GitHub Actions
-- SSH-based deployment
-- CI/CD automation
-- Nginx web server
-- Linux server management
 
 ---
 

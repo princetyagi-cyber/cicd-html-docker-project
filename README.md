@@ -42,7 +42,7 @@ Created a simple HTML website using VS Code.
 
 Created a Dockerfile using Nginx to containerize the HTML website.
 
-![docker](screenshots/dockerfile.png)
+![docker](screenshots/dockerfile1.png)
 
 ---
 

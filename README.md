@@ -34,7 +34,7 @@ cicd-html-docker/
 
 Created a simple HTML website using VS Code.
 
-📸 **Screenshot:** (screenshots/index-html.png)
+![ html code ] (screenshots/index-html.png)
 
 ---
 
